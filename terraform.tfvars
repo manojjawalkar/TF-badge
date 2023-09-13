@@ -1,2 +1,2 @@
-ibmcloud_api_key = "ek5eZPcIRYLXO3c5fzD49jcroPjYEioMsuIfId_Nhwjv"
+ibmcloud_api_key = "<OMITTED_FOR_SECURITY_REASON>"
 region = "us-south"
